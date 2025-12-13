@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+frontend/dist/
+backend/static/uploads/
+.vscode/
+.cursor-tmp/
+
